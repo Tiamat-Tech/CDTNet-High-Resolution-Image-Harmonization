@@ -15,6 +15,13 @@ This is the official repository for the following paper:
 
 Note that CDTNet(sim) only supports global color transformation. To achieve local (spatially-variant) color transformation, you can refer to more recent works like [PCTNet](https://libcom.readthedocs.io/en/latest/image_harmonization.html).
 
+## Online Demo
+
+Try this [online demo](http://libcom.ustcnewly.com/) for image composition (object insertion) built upon [libcom](https://github.com/bcmi/libcom) toolbox and have fun!
+
+[![]](https://github.com/user-attachments/assets/87416ec5-2461-42cb-9f2d-5030b1e1b5ec)
+
+
 ## Getting Started
 
 ### Prerequisites
